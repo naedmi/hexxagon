@@ -8,17 +8,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/naedmi/Hexxagon?color=green)
 [![GitHub repo size](https://img.shields.io/github/repo-size/naedmi/Hexxagon)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ![GitHub commit merge status](https://img.shields.io/github/commit-status/naedmi/Hexxagon/master/c8757cf)
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-
-██╗░░██╗███████╗██╗░░██╗██╗░░██╗░█████╗░░██████╗░░█████╗░███╗░░██╗
-██║░░██║██╔════╝╚██╗██╔╝╚██╗██╔╝██╔══██╗██╔════╝░██╔══██╗████╗░██║
-███████║█████╗░░░╚███╔╝░░╚███╔╝░███████║██║░░██╗░██║░░██║██╔██╗██║
-██╔══██║██╔══╝░░░██╔██╗░░██╔██╗░██╔══██║██║░░╚██╗██║░░██║██║╚████║
-██║░░██║███████╗██╔╝╚██╗██╔╝╚██╗██║░░██║╚██████╔╝╚█████╔╝██║░╚███║
-╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░░╚════╝░╚═╝░░╚══╝
 
 # Project
 
